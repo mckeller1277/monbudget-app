@@ -1,0 +1,17 @@
+{
+  "appId": "com.budget.app",
+  "appName": "Mon Budget",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#1a1a2e"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#1a1a2e",
+      "showSpinner": false
+    }
+  }
+}
